@@ -1,0 +1,539 @@
+﻿body {
+}
+.127_296 {
+    overflow: hidden;
+}
+
+.e127_296 {
+    width: 1440px;
+    height: 1024px;
+    position: absolute;
+    background-image: url(images/menu.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.e127_297 {
+    color: rgba(255, 250.75000405311584, 250.75000405311584, 1);
+    width: 551px;
+    height: 100px;
+    position: absolute;
+    left: -12294px;
+    top: 2655px;
+    font-family: Asus Rog;
+    text-align: center;
+    font-size: 40px;
+    letter-spacing: 0;
+}
+
+.e127_298 {
+    color: rgba(255, 250.75000405311584, 250.75000405311584, 1);
+    width: 551px;
+    height: 100px;
+    position: absolute;
+    left: -12294px;
+    top: 2732px;
+    font-family: Asus Rog;
+    text-align: center;
+    font-size: 40px;
+    letter-spacing: 0;
+}
+
+.e127_299 {
+    background-color: rgba(255, 230.5625081062317, 230.5625081062317, 1);
+    width: 100px;
+    height: 111.81640625px;
+    position: absolute;
+    left: -12355px;
+    top: 2608.6083984375px;
+}
+
+.e127_300 {
+    width: 404px;
+    height: 340px;
+    position: absolute;
+    left: -12184px;
+    top: 2862px;
+    border-top-left-radius: 56px;
+    border-top-right-radius: 56px;
+    border-bottom-left-radius: 56px;
+    border-bottom-right-radius: 56px;
+    background-image: url(images/rectangle_75.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.e127_302 {
+    color: rgba(255, 255, 255, 1);
+    width: 239px;
+    height: 21px;
+    position: absolute;
+    left: -12685px;
+    top: 3265px;
+    font-family: Asus Rog;
+    text-align: left;
+    font-size: 25px;
+    letter-spacing: 0;
+}
+
+.e127_303 {
+    color: rgba(255, 255, 255, 1);
+    width: 299px;
+    height: 22px;
+    position: absolute;
+    left: -12685px;
+    top: 3307px;
+    font-family: Asus Rog;
+    text-align: left;
+    font-size: 25px;
+    letter-spacing: 0;
+}
+
+.e127_312 {
+    color: rgba(255, 255, 255, 1);
+    width: 391px;
+    height: 32px;
+    position: absolute;
+    left: -12685px;
+    top: 3342px;
+    font-family: Asus Rog;
+    text-align: left;
+    font-size: 25px;
+    letter-spacing: 0;
+}
+
+.e127_304 {
+    color: rgba(255, 255, 255, 1);
+    width: 310px;
+    height: 21px;
+    position: absolute;
+    left: -12685px;
+    top: 3385px;
+    font-family: Asus Rog;
+    text-align: left;
+    font-size: 25px;
+    letter-spacing: 0;
+}
+
+.e127_311 {
+    color: rgba(255, 255, 255, 1);
+    width: 310px;
+    height: 21px;
+    position: absolute;
+    left: -12685px;
+    top: 3425px;
+    font-family: Asus Rog;
+    text-align: left;
+    font-size: 25px;
+    letter-spacing: 0;
+}
+
+.e127_305 {
+    color: rgba(255, 255, 255, 1);
+    width: 1060px;
+    height: 21px;
+    position: absolute;
+    left: -12685px;
+    top: 3523px;
+    font-family: Asus Rog;
+    text-align: left;
+    font-size: 25px;
+    letter-spacing: 0;
+}
+
+.e127_306 {
+    color: rgba(255, 255, 255, 1);
+    width: 1300px;
+    height: 53px;
+    position: absolute;
+    left: -12685px;
+    top: 3463px;
+    font-family: Asus Rog;
+    text-align: left;
+    font-size: 25px;
+    letter-spacing: 0;
+}
+
+.e127_307 {
+    background-color: rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+    width: 220px;
+    height: 56px;
+    position: absolute;
+    left: -12642px;
+    top: 2845px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+
+.e127_308 {
+    color: rgba(0, 0, 0, 1);
+    width: 310px;
+    height: 21px;
+    position: absolute;
+    left: -12696px;
+    top: 2862px;
+    font-family: Asus Rog;
+    text-align: center;
+    font-size: 25px;
+    letter-spacing: 0;
+}
+
+.e205_110 {
+    width: 538px;
+    height: 367px;
+    position: absolute;
+    left: 451px;
+    top: 0px;
+    background-image: url(images/rectangle_80.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.e206_126 {
+    color: rgba(255, 255, 255, 1);
+    width: 186px;
+    height: 26px;
+    position: absolute;
+    left: 246px;
+    top: 37px;
+    font-family: Inter;
+    text-align: left;
+    font-size: 20px;
+    letter-spacing: 0;
+}
+
+.e206_127 {
+    background-color: rgba(196.00000351667404, 196.00000351667404, 196.00000351667404, 1);
+    opacity: 0.5;
+    width: 196.76734924316406px;
+    height: 27.804080963134766px;
+    position: absolute;
+    left: 11px;
+    top: 37px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.e107_125 {
+    width: 645px;
+    height: 40px;
+    position: absolute;
+    left: 432px;
+    top: 290px;
+}
+
+.e120_120 {
+    width: 122.0625px;
+    height: 39px;
+    position: absolute;
+    left: 36px;
+    top: 1px;
+}
+
+.e120_121 {
+    width: 122.0625px;
+    height: 39px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.e120_122 {
+    background-color: rgba(255, 255, 255, 1);
+    width: 122.0625px;
+    height: 39px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+
+.e120_123 {
+    width: 3px;
+    height: 3px;
+    position: absolute;
+    left: 210px;
+    top: 37px;
+}
+
+.e120_124 {
+    background-color: rgba(0, 0, 0, 1);
+    width: 1.056193232536316px;
+    height: 0.7094954252243042px;
+    position: absolute;
+    left: 0.9719079732894897px;
+    top: 1.2421875px;
+}
+
+.e120_125 {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 106px;
+    top: 10px;
+}
+
+.e120_126 {
+    background-color: rgba(0, 0, 0, 1);
+    width: 12.799616813659668px;
+    height: 8.246816635131836px;
+    position: absolute;
+    left: 3.599673271179199px;
+    top: 5.876562595367432px;
+}
+
+.e120_127 {
+    width: 252px;
+    height: 172px;
+    position: absolute;
+    left: 0px;
+    top: 40px;
+}
+
+.e120_128 {
+    color: rgba(0, 0, 0, 1);
+    width: 82px;
+    height: 24px;
+    position: absolute;
+    left: 11px;
+    top: 10px;
+    font-family: Inter;
+    text-align: left;
+    font-size: 20px;
+    letter-spacing: 0;
+}
+
+.e120_129 {
+    width: 122.0625px;
+    height: 39px;
+    position: absolute;
+    left: 166.78125px;
+    top: 0px;
+}
+
+.e120_130 {
+    background-color: rgba(255, 255, 255, 1);
+    width: 122.0625px;
+    height: 39px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+
+.e120_131 {
+    width: 3px;
+    height: 3px;
+    position: absolute;
+    left: 210px;
+    top: 37px;
+}
+
+.e120_132 {
+    background-color: rgba(0, 0, 0, 1);
+    width: 1.056193232536316px;
+    height: 0.7094954252243042px;
+    position: absolute;
+    left: 0.9719079732894897px;
+    top: 1.2421875px;
+}
+
+.e120_133 {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 106px;
+    top: 10px;
+}
+
+.e120_134 {
+    background-color: rgba(0, 0, 0, 1);
+    width: 12.799616813659668px;
+    height: 8.246816635131836px;
+    position: absolute;
+    left: 3.599673271179199px;
+    top: 5.876562595367432px;
+}
+
+.e120_135 {
+    width: 252px;
+    height: 172px;
+    position: absolute;
+    left: 0px;
+    top: 40px;
+}
+
+.e120_136 {
+    color: rgba(0, 0, 0, 1);
+    width: 88px;
+    height: 24px;
+    position: absolute;
+    left: 11px;
+    top: 10px;
+    font-family: Inter;
+    text-align: left;
+    font-size: 20px;
+    letter-spacing: 0;
+}
+
+.e120_137 {
+    width: 122.0625px;
+    height: 39px;
+    position: absolute;
+    left: 297.5625px;
+    top: 0px;
+}
+
+.e120_138 {
+    background-color: rgba(255, 255, 255, 1);
+    width: 122.0625px;
+    height: 39px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+
+.e120_139 {
+    width: 3px;
+    height: 3px;
+    position: absolute;
+    left: 210px;
+    top: 37px;
+}
+
+.e120_140 {
+    background-color: rgba(0, 0, 0, 1);
+    width: 1.056193232536316px;
+    height: 0.7094954252243042px;
+    position: absolute;
+    left: 0.9719079732894897px;
+    top: 1.2421875px;
+}
+
+.e120_141 {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 106px;
+    top: 10px;
+}
+
+.e120_142 {
+    background-color: rgba(0, 0, 0, 1);
+    width: 12.799616813659668px;
+    height: 8.246816635131836px;
+    position: absolute;
+    left: 3.599673271179199px;
+    top: 5.876562595367432px;
+}
+
+.e120_143 {
+    width: 252px;
+    height: 172px;
+    position: absolute;
+    left: 0px;
+    top: 40px;
+}
+
+.e120_144 {
+    color: rgba(0, 0, 0, 1);
+    width: 82px;
+    height: 24px;
+    position: absolute;
+    left: 11px;
+    top: 10px;
+    font-family: Inter;
+    text-align: left;
+    font-size: 20px;
+    letter-spacing: 0;
+}
+
+.e120_145 {
+    width: 122.0625px;
+    height: 39px;
+    position: absolute;
+    left: 428.34375px;
+    top: 0px;
+}
+
+.e120_146 {
+    background-color: rgba(255, 255, 255, 1);
+    width: 122.0625px;
+    height: 39px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+
+.e120_147 {
+    width: 3px;
+    height: 3px;
+    position: absolute;
+    left: 210px;
+    top: 37px;
+}
+
+.e120_148 {
+    background-color: rgba(0, 0, 0, 1);
+    width: 1.056193232536316px;
+    height: 0.7094954252243042px;
+    position: absolute;
+    left: 0.9719079732894897px;
+    top: 1.2421875px;
+}
+
+.e120_149 {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 106px;
+    top: 10px;
+}
+
+.e120_150 {
+    background-color: rgba(0, 0, 0, 1);
+    width: 12.799616813659668px;
+    height: 8.246816635131836px;
+    position: absolute;
+    left: 3.599673271179199px;
+    top: 5.876562595367432px;
+}
+
+.e120_151 {
+    width: 252px;
+    height: 172px;
+    position: absolute;
+    left: 0px;
+    top: 40px;
+}
+
+.e120_152 {
+    color: rgba(0, 0, 0, 1);
+    width: 40px;
+    height: 24px;
+    position: absolute;
+    left: 11px;
+    top: 10px;
+    font-family: Inter;
+    text-align: left;
+    font-size: 20px;
+    letter-spacing: 0;
+}

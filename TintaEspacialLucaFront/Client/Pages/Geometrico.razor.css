@@ -1,0 +1,341 @@
+﻿body {
+}
+.205_392 {
+    overflow: hidden;
+}
+
+.e205_392 {
+    width: 1440px;
+    height: 1024px;
+    position: absolute;
+    background-image: url(images/estilo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.e205_393 {
+    width: 215px;
+    height: 102px;
+    position: absolute;
+    left: 761px;
+    top: 464px;
+    background-image: url(images/rectangle_39.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.e205_394 {
+    width: 212px;
+    height: 102px;
+    position: absolute;
+    left: 995px;
+    top: 464px;
+    background-image: url(images/rectangle_40.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.e205_395 {
+    width: 213px;
+    height: 102px;
+    position: absolute;
+    left: 1227px;
+    top: 464px;
+    background-image: url(images/rectangle_41.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.e205_396 {
+    width: 215px;
+    height: 101px;
+    position: absolute;
+    left: 761px;
+    top: 575px;
+    background-image: url(images/rectangle_42.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.205_397 {
+    border: 5px solid rgba(255, 0, 0, 1);
+}
+
+.e205_397 {
+    width: 212px;
+    height: 101px;
+    position: absolute;
+    left: 995px;
+    top: 575px;
+    background-image: url(images/rectangle_43.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.e205_398 {
+    width: 213px;
+    height: 101px;
+    position: absolute;
+    left: 1227px;
+    top: 575px;
+    background-image: url(images/rectangle_44.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.e205_417 {
+    width: 538px;
+    height: 367px;
+    position: absolute;
+    left: 451px;
+    top: 0px;
+    background-image: url(images/rectangle_88.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.e205_418 {
+    color: rgba(255, 255, 255, 1);
+    width: 441px;
+    height: 33px;
+    position: absolute;
+    left: 500px;
+    top: 309px;
+    font-family: Inter;
+    text-align: left;
+    font-size: 60px;
+    letter-spacing: 0;
+}
+
+.e63_83 {
+    width: 214px;
+    height: 97px;
+    position: absolute;
+    left: 41px;
+    top: 466px;
+    background-image: url(images/rectangle_33.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.e63_84 {
+    width: 211px;
+    height: 97px;
+    position: absolute;
+    left: 275px;
+    top: 466px;
+    background-image: url(images/rectangle_34.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.e63_85 {
+    width: 214px;
+    height: 97px;
+    position: absolute;
+    left: 506px;
+    top: 466px;
+    background-image: url(images/rectangle_35.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.e63_86 {
+    width: 214px;
+    height: 96px;
+    position: absolute;
+    left: 41px;
+    top: 571px;
+    background-image: url(images/rectangle_36.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.e63_87 {
+    width: 211px;
+    height: 96px;
+    position: absolute;
+    left: 275px;
+    top: 571px;
+    background-image: url(images/rectangle_37.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.e63_88 {
+    width: 214px;
+    height: 96px;
+    position: absolute;
+    left: 506px;
+    top: 571px;
+    background-image: url(images/rectangle_38.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.e63_89 {
+    width: 214px;
+    height: 96px;
+    position: absolute;
+    left: 42px;
+    top: 733px;
+    background-image: url(images/rectangle_39.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.e63_90 {
+    width: 211px;
+    height: 96px;
+    position: absolute;
+    left: 276px;
+    top: 733px;
+    background-image: url(images/rectangle_40.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.e63_91 {
+    width: 214px;
+    height: 96px;
+    position: absolute;
+    left: 507px;
+    top: 733px;
+    background-image: url(images/rectangle_41.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.e63_92 {
+    width: 214px;
+    height: 96px;
+    position: absolute;
+    left: 42px;
+    top: 838px;
+    background-image: url(images/rectangle_42.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.e63_93 {
+    width: 211px;
+    height: 96px;
+    position: absolute;
+    left: 276px;
+    top: 838px;
+    background-image: url(images/rectangle_43.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.e63_94 {
+    width: 214px;
+    height: 96px;
+    position: absolute;
+    left: 507px;
+    top: 838px;
+    background-image: url(images/rectangle_44.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.e63_95 {
+    width: 214px;
+    height: 96px;
+    position: absolute;
+    left: 761px;
+    top: 740px;
+    background-image: url(images/rectangle_45.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.e63_96 {
+    width: 211px;
+    height: 96px;
+    position: absolute;
+    left: 995px;
+    top: 740px;
+    background-image: url(images/rectangle_46.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.e63_97 {
+    width: 214px;
+    height: 96px;
+    position: absolute;
+    left: 1226px;
+    top: 740px;
+    background-image: url(images/rectangle_47.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.e63_98 {
+    width: 214px;
+    height: 96px;
+    position: absolute;
+    left: 761px;
+    top: 845px;
+    background-image: url(images/rectangle_48.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.e63_99 {
+    width: 211px;
+    height: 96px;
+    position: absolute;
+    left: 995px;
+    top: 845px;
+    background-image: url(images/rectangle_49.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.e63_100 {
+    width: 214px;
+    height: 96px;
+    position: absolute;
+    left: 1226px;
+    top: 845px;
+    background-image: url(images/rectangle_50.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.e206_200 {
+    color: rgba(255, 255, 255, 1);
+    width: 82px;
+    height: 26px;
+    position: absolute;
+    left: 1342px;
+    top: 94px;
+    font-family: Inter;
+    text-align: left;
+    font-size: 20px;
+    letter-spacing: 0;
+}
+
+.e206_201 {
+    color: rgba(255, 255, 255, 1);
+    width: 186px;
+    height: 26px;
+    position: absolute;
+    left: 18px;
+    top: 32px;
+    font-family: Inter;
+    text-align: left;
+    font-size: 20px;
+    letter-spacing: 0;
+}
+
+.e206_202 {
+    background-color: rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+    width: 60px;
+    height: 58px;
+    position: absolute;
+    left: 1342px;
+    top: 23px;
+}
